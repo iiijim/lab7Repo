@@ -7,14 +7,14 @@ Use the provided HTML file and add a basic event handler to the page so that whe
 * To understand the output goal, watch the video "js_lab_output" found in the lab repository. 
 
 **Process:**
-1.	Start with the provided index.html file.
-2.	Put all JavaScript for this Lab in the js file.
-3.	Do not change the structure of the HTML other than adding your JavaScript to the page.
-4.	Write JavaScript code to do the following things based on the demos we did in class.
-    * Add an event listener to the Alert Me div so that when it is clicked it will run some code.
+1.	Start with the provided index.html file. (done)
+2.	Put all JavaScript for this Lab in the js file. (done)
+3.	Do not change the structure of the HTML other than adding your JavaScript to the page. (done)
+4.	Write JavaScript code to do the following things based on the demos we did in class. 
+    * Add an event listener to the Alert Me div so that when it is clicked it will run some code. (yep)
     * When the button is clicked it should do two things. 
-       1. It should show an Alert box with the contents of the text field in the Alert box. I want you to also append your name and a colon (name:) before the value of the text box. For example if the text box says This is a test,  I would have the Alert say "Debarlaben: This is a test."
-       2. Also it should change the value of the h2 below the button to have the text contents of the text input control. Do not append your name to this one. Just have the exact contents of the text box.
+       1. It should show an Alert box with the contents of the text field in the Alert box. I want you to also append your name and a colon (name:) before the value of the text box. For example if the text box says This is a test,  I would have the Alert say "Debarlaben: This is a test." (yep)
+       2. Also it should change the value of the h2 below the button to have the text contents of the text input control. Do not append your name to this one. Just have the exact contents of the text box. (yep)
     * To understand the output goal, watch the video "js_lab_output" found in the lab repository.
  
 Turn in the following:
